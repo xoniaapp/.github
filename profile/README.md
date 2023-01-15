@@ -4,6 +4,11 @@
   <img src="/screenshots/site-screenshot.png" alt="Screenshot of the Revolt client with the Revolt Testers server open in the Information and Rules channel." />
 </p>
 
+# Links
+
+- ### [🌍 Website](https://xoniaapp.com): The Xonia website.
+- ### [💖 Donate](https://buymeacoffee.com/aelpxy): Help support the project.
+
 # Repositories
 
 Core repositories and their maintainers
