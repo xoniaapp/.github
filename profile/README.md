@@ -7,7 +7,7 @@
 # Links
 
 - ### [🌍 Website](https://xoniaapp.com): The Xonia website.
-- ### [💖 Donate](https://buymeacoffee.com/aelpxy): Help support the project.
+- ### [💖 Donate](https://patreon.com/aelpxy): Help support the project.
 
 # Repositories
 
