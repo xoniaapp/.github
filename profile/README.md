@@ -21,3 +21,4 @@ Core repositories and their maintainers
 |[desktop](https://github.com/xoniaapp/desktop)|Desktop client written with Rust. (WIP)|[@aelpxy](https://github.com/aelpxy)|AGPL-3.0|
 |[website](https://github.com/xoniaapp/website)|Homepage source code. (WIP)|[@aelpxy](https://github.com/aelpxy)|AGPL-3.0|
 |[xonia.js](https://github.com/xoniaapp/xonia.js)|Typescript library for interacting with Xonia API. (WIP)|[@aelpxy](https://github.com/aelpxy)|MIT|
+|[xonia.py](https://github.com/sqdnoises/xonia.py)|Python library for interacting with Xonia API.|[@sqdnoises](https://github.com/sqdnoises)|MIT|
